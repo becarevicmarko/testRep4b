@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="models\BinaryTree.cs" />
     <Compile Include="models\BinaryTreeItem.cs" />
+    <Compile Include="models\deleteMe.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

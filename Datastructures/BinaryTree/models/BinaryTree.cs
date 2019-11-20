@@ -11,7 +11,7 @@ namespace BinaryTreeApp.models
     {
 
         private BinaryTreeItem _root;
-
+        //neues Kommentar 
 
         //Add 
         public void Add(int? itemToAdd)
