@@ -400,23 +400,7 @@ namespace BinaryTreeApp.models
 
         }
 
-        public bool Remove6(int? itemToRemove, int? itemToFind)
-        {
-            if (itemToRemove == null)
-            {
-                return false;
-            }
-
-            if (itemToFind == null)
-            {
-                return false;
-            }
-
-            return true;
-
-            //1.Fall
-
-        }
+       
         //ToString
     }
 
