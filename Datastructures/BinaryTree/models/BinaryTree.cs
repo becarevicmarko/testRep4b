@@ -360,7 +360,17 @@ namespace BinaryTreeApp.models
                 return false;
             }
 
+public bool Remove2(int? itemToRemove, int? itemToFind)
+        {
+           if(itemToRemove== null)
+            {
+                return false;
+            }
 
+           if(itemToFind== null)
+            {
+                return false;
+            }
             
             //1.Fall
            
