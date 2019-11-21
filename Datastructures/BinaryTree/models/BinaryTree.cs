@@ -14,7 +14,7 @@ namespace BinaryTreeApp.models
         //neues Kommentar 
 
         //Add 
-        public void Add(int? itemToAdd)
+        public void Add1(int? itemToAdd)
         {
 
             if (itemToAdd == null)
