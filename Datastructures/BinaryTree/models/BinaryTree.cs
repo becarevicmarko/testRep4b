@@ -365,7 +365,7 @@ namespace BinaryTreeApp.models
             //1.Fall
            
         }
-        public bool Remove3(int? itemToRemove, int? itemToFind)
+        public bool Remove2(int? itemToRemove, int? itemToFind)
         {
             if (itemToRemove == null)
             {
@@ -381,26 +381,11 @@ namespace BinaryTreeApp.models
 
             //1.Fall
 
-        }
-        public bool Remove5(int? itemToRemove, int? itemToFind)
-        {
-            if (itemToRemove == null)
-            {
-                return false;
-            }
-
-            if (itemToFind == null)
-            {
-                return false;
-            }
-
-            return true;
+        
 
             //1.Fall
 
         }
-
-       
         //ToString
     }
 
