@@ -9,5 +9,6 @@ namespace BinaryTree.models
     class deleteMe
     {
         private string nimit;
+        private string marko;
     }
 }
