@@ -360,26 +360,12 @@ namespace BinaryTreeApp.models
                 return false;
             }
 
-<<<<<<< HEAD
             return true;
-=======
-public bool Remove2(int? itemToRemove, int? itemToFind)
-        {
-           if(itemToRemove== null)
-            {
-                return false;
-            }
-
-           if(itemToFind== null)
-            {
-                return false;
-            }
->>>>>>> 93409349be1464b5511e0e7efe30686c1e7b9ed4
             
             //1.Fall
            
         }
-        public bool Remove2(int? itemToRemove, int? itemToFind)
+        public bool Remove3(int? itemToRemove, int? itemToFind)
         {
             if (itemToRemove == null)
             {
