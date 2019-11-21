@@ -360,13 +360,29 @@ namespace BinaryTreeApp.models
                 return false;
             }
 
-
+            return true;
             
             //1.Fall
            
         }
+        public bool Remove2(int? itemToRemove, int? itemToFind)
+        {
+            if (itemToRemove == null)
+            {
+                return false;
+            }
 
-        
+            if (itemToFind == null)
+            {
+                return false;
+            }
+
+            return true;
+
+            //1.Fall
+
+        }
+
         //ToString
     }
 
